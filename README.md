@@ -4,7 +4,7 @@
 
 Обучение(дообучение) моделей BERT и ROBERT происходило в [google colab](https://colab.research.google.com/drive/1hQQXPoO8mgDB1rA0SLAyEp8yz6Oy3Uhz?usp=sharing) сейчас там представлен код для дообучения модели ROBERT, так как оно проводилось последним. 
 
-Дообученая модель в фаормате zip находится по ссылке на [google диске](https://drive.google.com/file/d/1meDQb__9UXmNhwQ1aXzjOthHFrrR4pij/view?usp=sharing)
+## Дообученая модель в формате zip находится по ссылке на [google диске](https://drive.google.com/file/d/1meDQb__9UXmNhwQ1aXzjOthHFrrR4pij/view?usp=sharing)
 
 В репозитории представлены следующие основные файлы и папки:
 * папка checkpoint-4000 в которой содержится самая удачная модель, а конкретнее дообученая модель BERT с тестовой точностью 56%, результаты тестирований дообучения моедли при определенных параметрах представлены по пути tests/test/test_results.txt;
